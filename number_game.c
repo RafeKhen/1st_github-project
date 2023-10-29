@@ -1,3 +1,6 @@
+/*Author: Rafiul Islam
+Idea from codewithharry youtube harry bhai
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
